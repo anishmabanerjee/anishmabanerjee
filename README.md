@@ -1,6 +1,6 @@
 # Hi, I'm Anishma Banerjee 👋
 
-🎓 Computer Science Student
+🎓 Computer Application Student
 
  Aspiring Data Analyst passionate about turning raw data into meaningful insights using SQL, Python, Power BI, Tableau, and Machine Learning.
 
